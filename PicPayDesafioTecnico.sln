@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPayDesafioTecnico.API", "PicPayDesafioTecnico.API\PicPayDesafioTecnico.API.csproj", "{8C871EC5-C0EC-40BA-896D-FBDFA6E12086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPayDesafioTecnico.Application", "PicPayDesafioTecnico.Application\PicPayDesafioTecnico.Application.csproj", "{159AFFB4-8A34-4BEF-9E40-D508E5EE9DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPayDesafioTecnico.Domain", "PicPayDesafioTecnico.Domain\PicPayDesafioTecnico.Domain.csproj", "{CCF6AC8C-28B2-4B90-9117-11D0E51EE404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPayDesafioTecnico.CrossCutting", "PicPayDesafioTecnico.CrossCutting\PicPayDesafioTecnico.CrossCutting.csproj", "{1BFE61E1-ED8B-448A-9452-A82E78B5677B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPayDesafioTecnico.Infrastructure", "PicPayDesafioTecnico.Infrastructure\PicPayDesafioTecnico.Infrastructure.csproj", "{B65B0644-35DF-416D-9626-95721B2AA4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C871EC5-C0EC-40BA-896D-FBDFA6E12086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C871EC5-C0EC-40BA-896D-FBDFA6E12086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C871EC5-C0EC-40BA-896D-FBDFA6E12086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C871EC5-C0EC-40BA-896D-FBDFA6E12086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159AFFB4-8A34-4BEF-9E40-D508E5EE9DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159AFFB4-8A34-4BEF-9E40-D508E5EE9DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159AFFB4-8A34-4BEF-9E40-D508E5EE9DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159AFFB4-8A34-4BEF-9E40-D508E5EE9DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF6AC8C-28B2-4B90-9117-11D0E51EE404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF6AC8C-28B2-4B90-9117-11D0E51EE404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF6AC8C-28B2-4B90-9117-11D0E51EE404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF6AC8C-28B2-4B90-9117-11D0E51EE404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFE61E1-ED8B-448A-9452-A82E78B5677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFE61E1-ED8B-448A-9452-A82E78B5677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFE61E1-ED8B-448A-9452-A82E78B5677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFE61E1-ED8B-448A-9452-A82E78B5677B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65B0644-35DF-416D-9626-95721B2AA4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65B0644-35DF-416D-9626-95721B2AA4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65B0644-35DF-416D-9626-95721B2AA4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65B0644-35DF-416D-9626-95721B2AA4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F643D5C-8203-47AB-9442-3E9B740BB2BF}
+	EndGlobalSection
+EndGlobal
